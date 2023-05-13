@@ -1,9 +1,5 @@
 Eai!!! Eu sou o Ruan Pablo
 
-- 🔭 Desenvolvedor Front-End
-- 🌱 Estudanto JavaScript
-- 😄 Pronouns: ele/dele
-
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RUZZIN&show_icons=true&theme=radical">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUZZIN&layout=compact&theme=radical">
