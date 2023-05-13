@@ -17,7 +17,7 @@ Eai!!! Eu sou o Ruan Pablo
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Ruan-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Ruan-pic" height="150" style="border-radius:50px;" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tiktok.com%2F%40ogatodeoculosescuros&psig=AOvVaw2IThZXHtwEsnS2htmG7DdF&ust=1684088155195000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDdwbTz8v4CFQAAAAAdAAAAABAJ">
 </div>
 
   ##
