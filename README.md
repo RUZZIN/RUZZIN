@@ -6,7 +6,7 @@ Eai!!! Eu sou o Ruan Pablo
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RUZZIN&show_icons=true&theme=radical">
-  <img height="180em" width="5000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUZZIN&layout=compact&theme=radical">
+  <img height="180em" width="4000em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUZZIN&layout=compact&theme=radical">
   </div>
   
   ##
