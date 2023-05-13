@@ -4,6 +4,13 @@ Eai!!! Eu sou o Ruan Pablo
 - 🌱 Estudanto JavaScript
 - 😄 Pronouns: ele/dele
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RUZZIN&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUZZIN&layout=compact&theme=radical">
+  </div>
+  
+  ##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -13,13 +20,6 @@ Eai!!! Eu sou o Ruan Pablo
   <img align="right" alt="Ruan-pic" height="150" style="border-radius:50px;" src="">
 </div>
 
-  ##
-  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RUZZIN&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUZZIN&layout=compact&theme=radical">
-  </div>
-    
-  
   ##
  
 <div> 
