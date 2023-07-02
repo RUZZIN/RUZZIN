@@ -1,4 +1,4 @@
-Eai!!! Eu sou o Ruan Pablo
+Eai!!! Eu sou o Ruan
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=RUZZIN&show_icons=true&theme=radical">
