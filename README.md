@@ -5,7 +5,7 @@ Eai!!! Eu sou o Ruan
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUZZIN&layout=compact&theme=radical">
 </div>  
 
-  ##
+  ##ecmascript
   
 <div style="display: inline_block"><br>
    <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,6 +14,7 @@ Eai!!! Eu sou o Ruan
   <img align="center" alt="Ruan-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
    <img align="center" alt="Ruan-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Ruan-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Ruan-ecmascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ecmascript/ecmascript-original.svg">
   <img align="center" alt="Ruan-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Ruan-php" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ruan-MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
