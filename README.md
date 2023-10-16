@@ -18,7 +18,7 @@
   <img align="center" alt="Ruan-php" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Ruan-MySQL" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Ruan-React" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev
+  ![skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,php,wordpress,nodejs,vue,react,mongodb,mysql,py,vim,docker,kubernetes,md,git,figma,bash,cloudflare,jquery,nginx,vscode&theme=light)
   <!--<img align="center" alt="Ruan-WordPress" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">-->
   <!-- <img align="center" alt="Ruan-ajax" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg"> -->
   <!-- <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -->
