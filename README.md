@@ -4,7 +4,7 @@
 </div>  
 
   ##
-  ![skills](https://skillicons.dev/icons?i=sass,js,ts,nodejs,mysql,postgres,react,git,cs,dotnet,java,spring,angular&theme=light)
+  ![skills](https://skillicons.dev/icons?i=sass,js,ts,nodejs,mysql,postgres,react,git,cs,dotnet,java,spring,angular,vscode&theme=light)
   ##
  
 <div> 
